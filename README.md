@@ -1,2 +1,1 @@
-# PrepCourse12
-curso de henry
+Este es un proyecto de como crear un repositorio
